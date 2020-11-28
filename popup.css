@@ -1,0 +1,99 @@
+#bio_ep {
+    width: 550px;
+    height: auto; 
+    color: #333; 
+    background-color: #fff; 
+    text-align: center; 
+    border-radius: 15px;
+    overflow:hidden; 
+    box-shadow: 0px 0px 20px #0000006b;
+}
+#bio_ep_content {
+    padding-bottom: 23px;
+}
+#bio_ep_content img{
+    padding-top: 0px;
+    box-shadow: 0px 0px 10px #0000006b;
+}
+.title-popup {
+    font-family: Carter One;
+    font-size: 30px;
+    font-weight: 600; 
+    display:block; 
+    padding: 15px 0;
+}
+.des-popup {
+    display: inline-block;
+    width: 70%;
+    font-size: 14px;
+    color: #676767;
+    line-height: 21px;
+}
+#bio_ep_content form {
+    padding-top: 25px;
+}
+#bio_ep_content form input{
+    font-size: 16px;
+    padding: 7px 17px; 
+    border: 1px solid #a4a4a4; 
+    border-radius: 30px !important;
+}
+#bio_ep_content form input:active {
+    border: 1px solid #80C56E !important; 
+}
+#bio_ep_content form input:focus {
+    outline: none; 
+}
+#bio_ep_close {
+    margin: 5px 0 0 -46px;
+    width: 41px;
+    height: 28px;
+    padding: 7px 0;
+    background-color: #fff;
+    color: #5c5c5c;
+    border-radius: 100%;
+    font-size: 22px;
+    font-family: calibri;
+}
+#bio_ep_close:hover {
+    background-color: #ececec;
+}
+.bio_btn {
+    display: inline-block; 
+    font-size: 14px !important; 
+    margin: 18px 0; 
+    padding: 7px; 
+    color: #fff; 
+    font-size: 14px; 
+    font-weight: 600; 
+    background-color: #80C56E; 
+    border: 1px solid #80C56E !important;
+    cursor: pointer; 
+    -webkit-appearance: none; 
+    -moz-appearance: none; 
+    border-radius: 30px; 
+    text-decoration: none; 
+    box-shadow: 1px 1px 4px #0000006b;
+}
+#social-popup {
+    padding-bottom: 14px;
+    font-size: 12px;
+}
+#social-popup a {
+    text-decoration: none; 
+    color: white; 
+    margin: 0 5px;
+}
+.sp-btn{
+  padding: 5px 10px; 
+    border-radius: 4px;
+}
+#fb-popup{
+    background: #39569B; 
+}
+#gp-popup{
+    background: #DA4835; 
+}
+#ig-popup{
+  background: #251F21;
+}

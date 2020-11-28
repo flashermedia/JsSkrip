@@ -1,9 +1,9 @@
 <script type="text/javascript">
   var popupbanner=new Array()  
 popupbanner[0]=&#39;https://ir3.xyz/5fba7682990ef|https://app.indoleads.com/uploads/5f4776f568b23.jpeg|DX.com - World&#39;
-popupbanner[1]=&#39;https://ir3.xyz/5fba7682990ef|https://app.indoleads.com/uploads/5f4776f56ba09.jpeg|Chic Me - World&#39;
-popupbanner[2]=&#39;https://ir3.xyz/5fba7682990ef|https://app.indoleads.com/uploads/5f58917ab3ea4.png|Tomtop.com - World&#39;
-popupbanner[3]=&#39;https://ir3.xyz/5fba7682990ef|https://app.indoleads.com/uploads/5f7436ba040c8.jpeg|YOINS - World&#39;
+popupbanner[1]=&#39;https://ir3.xyz/5fba7682990ef|https://app.indoleads.com/uploads/5fbac9bab15b8.jpeg|Chic Me - World&#39;
+popupbanner[2]=&#39;https://ir3.xyz/5fba7682990ef|https://app.indoleads.com/uploads/5fba7682990ef.png|Tomtop.com - World&#39;
+popupbanner[3]=&#39;https://ir3.xyz/5fba7682990ef|https://app.indoleads.com/uploads/5fbac9bab15b8.jpeg|YOINS - World&#39;
  
  var whichpopupbanner=Math.floor(Math.random()*(popupbanner.length));  
   var StrInduk = popupbanner[whichpopupbanner];
